@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-![OUTPUT](./EDM1.1.jpeg)
+![OUTPUT](./EDM1.1.jpg)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
